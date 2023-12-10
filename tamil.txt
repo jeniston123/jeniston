@@ -1,1 +1,1 @@
-full stack developer
+distributed version control system-git
